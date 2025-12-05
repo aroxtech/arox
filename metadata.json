@@ -1,0 +1,28 @@
+{
+  "name": "OFFICIAL AROX",
+  "symbol": "AROX",
+  "description": "AROX is the native utility token of the AROX AI ecosystem, enabling access to intelligent services, automated agents, on-chain AI tooling, and platform-level governance.",
+  "image": "https://arox.tech/arox.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "3DjEFCsMF7HgpgXaFMQhbD2LsfGkMugiA7uQFZeWNyBh",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://arox.tech",
+    "twitter": "https://x.com/arox_tech",
+    "telegram": "https://t.me/arox_tech"
+  },
+  "updateAuthority": "3DjEFCsMF7HgpgXaFMQhbD2LsfGkMugiA7uQFZeWNyBh",
+  "mint": "AzsTKBHHyq6etZYioLu9tsrHZgrVoLx6mrTN8DFJpwDN",
+  "primarySaleHappened": 0,
+  "isMutable": 0,
+  "editionNonce": 255,
+  "tokenStandard": 2
+}
